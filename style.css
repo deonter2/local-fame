@@ -1,0 +1,20 @@
+.text {
+  font-size: 3em;
+  font-family: "HelveticaNeueBold", "HelveticaNeue-Bold", "Helvetica Neue Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosBold', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif; font-weight:600; font-stretch:normal; - See more at: http://rachaelmoore.name/posts/design/css/web-safe-helvetica-font-stack/#sthash.9e3VMm1s.dpuf;
+	font-style: italic;
+	color: YELLOW;
+}
+
+.container {
+	background-color: BLUE;
+	display: inline-block;
+	padding: 15px;
+}
+
+.outer_container {
+	text-align: center;
+}
+
+.hidden {
+	visibility: hidden;
+}
